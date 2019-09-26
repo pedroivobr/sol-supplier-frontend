@@ -1,27 +1,27 @@
 pt-BR:
   covenants:
     index:
-      title: Convênios
+      title: Aquisições
       list:
-        title: Lista de Convênios
+        title: Lista de Aquisições
       button:
-        new: Novo convênio
+        new: Nova aquisição
       search:
-        placeholder: Busque por nome ou número do convênio
+        placeholder: Busque por nome ou número da aquisição
 
       notifications:
         destroy:
-          success: Convênio excluido com sucesso
-          failure: Houve um erro ao excluir o convênio
+          success: Aquisição excluida com sucesso
+          failure: Houve um erro ao excluir a aquisição
 
     show:
-      title: Detalhes do convênio
+      title: Detalhes da aquisição
 
       general:
-        title: Dados do convênio
+        title: Dados da aquisição
 
       navbar:
-        title: 'Convênio nº '
+        title: 'Aquisição nº '
 
       notifications:
         destroy:

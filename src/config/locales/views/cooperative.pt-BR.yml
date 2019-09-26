@@ -1,47 +1,47 @@
 pt-BR:
   cooperatives:
     index:
-      title: Associações
+      title: Entidades
       list:
-        title: Lista de Associações
+        title: Lista de Entidades
       button:
-        new: Nova associação
+        new: Nova entidade
       search:
-        placeholder: Busque por nome ou CNPJ da associação
+        placeholder: Busque por nome ou CNPJ da entidade
 
       notifications:
         destroy:
-          success: Associação excluida com sucesso
-          failure: Houve um erro ao excluir a associação
+          success: Entidade excluida com sucesso
+          failure: Houve um erro ao excluir a entidade
 
     new:
-      title: Nova associação
+      title: Nova entidade
 
       fields:
         name:
-          placeholder: Informe o nome da associação
+          placeholder: Informe o nome da entidade
         cnpj:
           placeholder: Informe o CNPJ
 
       button:
-        submit: Criar associação
-        submitting: Criando associação
+        submit: Criar entidade
+        submitting: Criando entidade
 
       notifications:
-        failure: Houve um erro ao criar a associação
+        failure: Houve um erro ao criar a entidade
 
 
     edit:
-      title: Editar associação
+      title: Editar entidade
 
       notifications:
-        failure: Houve um erro ao editar a associação
+        failure: Houve um erro ao editar a entidade
 
       button:
-        submit: Editar associação
-        submitting: Editando associação
+        submit: Editar entidade
+        submitting: Editando entidade
 
     show:
-      title: Dados da associação
+      title: Dados da entidade
       covenants:
-        title: Convênios da Associação
+        title: Aquisições da entidade

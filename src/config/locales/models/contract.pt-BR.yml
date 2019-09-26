@@ -11,12 +11,12 @@ pt-BR:
 
         supplierSignedAt: Fornecedor
         adminSignedAt: Revisor
-        userSignedAt: Associação
+        userSignedAt: Entidade
 
         price_total: Valor
         bidding_title: Licitação
         provider_title: Fornecedor
-        cooperative_title: Associação
+        cooperative_title: Entidade
 
         statuses:
           waiting_signature: Aguardando assinatura
