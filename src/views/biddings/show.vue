@@ -143,7 +143,7 @@
           {
             route: { name: 'lots', params: {} },
             icon: 'fa-list',
-            text: 'Lotes e itens',
+            text: 'Lotes e itens (Sua Proposta)',
             active: false,
           }
         ]

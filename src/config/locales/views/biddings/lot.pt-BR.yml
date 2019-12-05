@@ -2,14 +2,14 @@ pt-BR:
   biddings:
     lots:
       index:
-        title: Lotes e itens
+        title: Lotes e itens (Sua Proposta)
         empty: Nenhum lote cadastrado
 
         button:
           new: Adicionar lote
 
         tabs:
-          lots: Lotes e itens
+          lots: Lotes e itens (Sua Proposta)
           proposals: Propostas
 
       show:
@@ -17,7 +17,7 @@ pt-BR:
           proposals: Visualizar todas propostas
 
         tabs:
-          lots: Lotes e itens
+          lots: Lotes e itens (Sua Proposta)
           proposals: Propostas
 
       _index:

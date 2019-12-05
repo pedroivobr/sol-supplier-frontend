@@ -38,7 +38,7 @@
     data () {
       return {
         zoom: 9,
-        center: L.latLng(-12.782241, -38.636312),
+        center: L.latLng(-5.8206513,-36.2277556),
         url:'https://{s}.tile.osm.org/{z}/{x}/{y}.png',
         attribution:'&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
       }
